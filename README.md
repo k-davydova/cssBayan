@@ -1,6 +1,6 @@
 # CSS Bayan
 ## Overview
-Check out the project at the following link: [Memes Project](https://k-davydova.github.io/cssBayan/)
+Check out the project at the following link: [CSS Bayan](https://k-davydova.github.io/cssBayan/)
 
 ### Project Description
 This is a playful project featuring memes, with a unique twist - all interactivity is achieved using pure CSS. No JavaScript was utilized in the development of this project. Additionally, the use of absolute units of measurement was strictly prohibited.
